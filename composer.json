@@ -1,0 +1,14 @@
+{
+    "name": "ktkalcec/package-library-test",
+    "description": "Testing composer packeting",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "KristijanTkalčec",
+            "email": "kristijan.tkalcec@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
