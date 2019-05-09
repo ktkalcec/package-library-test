@@ -11,6 +11,8 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "symfony/symfony": "^4.3@dev"
+        "symfony/symfony": "^4.3@dev",
+        "symfony/flex": "^1.2@dev",
+        "api-platform/api-pack": "dev-master"
     }
 }
